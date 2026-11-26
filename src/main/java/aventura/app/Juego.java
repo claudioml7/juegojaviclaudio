@@ -3,11 +3,11 @@ package aventura.app;
 import java.util.Scanner;
 
 /**
- * Clase principal del juego "Tu Propia Aventura".
+ * Clase principal del juego "Mi Propia Aventura".
  * Esqueleto para la Misión 1 (UD1-UD3).
  * VUESTRO TRABAJO es rellenar todos los TODO
  */
-public class Juego {
+public class  Juego {
 
     // --- NÚCLEO: Definición de Datos (FASE 1) ---
     // Esta parte os la damos HECHA. Es el "contrato" del núcleo.
